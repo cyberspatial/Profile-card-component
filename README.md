@@ -27,7 +27,7 @@ Profile card Component
 
 ### Screenshot
 
-![](./images/Screenshots/windows.jpg)
+![](./images/Screenshots/windows.png)
 
 ### Links
 
